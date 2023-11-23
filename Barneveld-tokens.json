@@ -433,11 +433,11 @@
           "type": "color"
         },
         "primary-color": {
-          "value": "#007175",
+          "value": "#0349D1",
           "type": "color"
         },
         "primary-color-dark": {
-          "value": "#00595c",
+          "value": "#02366e",
           "type": "color"
         },
         "primary-color-light": {
@@ -4760,21 +4760,11 @@
     }
   },
   "local/footer": {
-    "utrecht": {
-      "alert": {
+    "og": {
+      "footer": {
         "background": {
           "color": {
             "value": "{og.color.primary-color}",
-            "type": "color"
-          }
-        }
-      }
-    },
-    "og": {
-      "footer-dark": {
-        "link": {
-          "color": {
-            "value": "{og.color.white}",
             "type": "color"
           }
         }
